@@ -8,5 +8,6 @@
 	<modules>
 		<module>app</module>
 		<module>utils</module>
+		<module>web-app</module>
 	</modules>
 </project>
